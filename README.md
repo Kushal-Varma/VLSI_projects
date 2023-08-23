@@ -8,12 +8,12 @@
 ####  
 ####    Using any other version of Vivado will prompt to automatically make changes to the project file. This can still run the project.
 
-\n\n
 
-projects_2.srcs contains:
-  1. 42 Source Codes files in Verilog(.v) format
-  2. 26 Simulation (test_bench) files in Verilog(.v) format
-  3. 1 Constraint file in .xdc format for Basys3 implementation.
+
+      projects_2.srcs contains:
+        1. 42 Source Codes files in Verilog(.v) format
+        2. 26 Simulation (test_bench) files in Verilog(.v) format
+        3. 1 Constraint file in .xdc format for Basys3 implementation.
 
     Source Codes contains:
       1)	counter_4bit_FSM_tb.v
