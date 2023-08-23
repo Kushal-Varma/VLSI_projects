@@ -1,12 +1,12 @@
 # VLSI_projects
 
-## VLSI_projects.zip contains full Vivado project files.
-## 
-##   To access full Vivado project:
-##       1. Download and extract VLSI_projects.zip file.
-##       2. Run "project_2/project_2.xpr" file using Xilinx Vivado 2022.2 
-##  
-##    Using any other version of Vivado will prompt to automatically make changes to the project file. This can still run the project.
+### VLSI_projects.zip contains full Vivado project files.
+#### 
+####   To access full Vivado project:
+####       1. Download and extract VLSI_projects.zip file.
+####       2. Run "project_2/project_2.xpr" file using Xilinx Vivado 2022.2 
+####  
+####    Using any other version of Vivado will prompt to automatically make changes to the project file. This can still run the project.
 
 projects_2.srcs contains:
   1. 42 Source Codes files in Verilog(.v) format
